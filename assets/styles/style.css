@@ -162,7 +162,7 @@ img{
 }
 
 .image {
-  width: 100px;                
+  width: 200px;                
   height: auto;
   display: block;
   margin: 0 auto 10px;        
@@ -197,4 +197,5 @@ a{
 .image3{
    width: 100px;                
   height: auto;
+  
 }
