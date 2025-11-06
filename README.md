@@ -34,6 +34,6 @@ Abre la carpeta en la que quieres que se descargue el proyecto
 git clone https://github.com/haruucx/Proyecto-pagina-web-reciclaje.git
 ```
 
-3. Una vez clonado el repositorio, puedes modificar los archivos, es de libre uso. Solo los usuarios permitidos podran hacer commit en la pagina principal de GitHub
+3. Una vez clonado el repositorio, puedes modificar los archivos, es de libre uso. Solo los usuarios permitidos podran hacer commit en el repositorio principal de GitHub
 
 ## Fin
