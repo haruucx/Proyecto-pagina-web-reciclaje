@@ -162,7 +162,7 @@ img{
 }
 
 .image {
-  width: 100px;                
+  width: 200px;                
   height: auto;
   display: block;
   margin: 0 auto 10px;        
@@ -180,7 +180,7 @@ a{
   color: black;
 }
 .image2 {
-  width: 100px;                
+  width: 50px;                
   height: auto;
   display: block;
   margin: 0 auto 10px;        
@@ -194,6 +194,7 @@ a{
 .iconos-contacto {
   margin-top: 15px;
 }
+<<<<<<< HEAD
 
 .image3{
   width: 200px;                
@@ -203,3 +204,10 @@ a{
   height: 200px;
 
 }
+=======
+.image3{
+   width: 100px;                
+  height: auto;
+  
+}
+>>>>>>> 063370f5c84c73dddec5adc53dd485129f5ec13f
