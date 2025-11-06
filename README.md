@@ -16,17 +16,17 @@
 
 ## ¿Como se hizo?
 
-1. Solo se uso: HTML y CSS.
-2. La pagina no tiene scripts por lo que es de facil comprension.
+- Solo se uso: HTML y CSS.
+- La pagina no tiene scripts por lo que es de facil comprension.
 
 ## Uso
-1. La pagina solo esta disponible en localhost por lo que se debe descargar el repositorio de GitHub y asi poder usarla
+- La pagina solo esta disponible en localhost por lo que se debe descargar el repositorio de GitHub y asi poder usarla
 
-2. La pagina es de caracter netamente informativo; No maneja bases de datos
+- La pagina es de caracter netamente informativo; No maneja bases de datos
 
 ## ¿Como descargar El repositorio?
 1. En la terminal de Visual Studio Code:
-- Abre la carpeta en la que quieres que se descargue el proyecto
+Abre la carpeta en la que quieres que se descargue el proyecto
 
 2. Haz:
 
