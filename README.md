@@ -1,12 +1,12 @@
 # Integrantes
 
-Yilson Santiago Copete Moreno
-Alexander Gómez Prada
-Juan Fernando Cuesta Marmolejo
-Anthony Jimenez Corredor
-Harold Stiven Mayo Perea
-Keiler López Buenaño
-Alex Mauricio Guevara
+-Yilson Santiago Copete Moreno
+-Alexander Gómez Prada
+-Juan Fernando Cuesta Marmolejo
+-Anthony Jimenez Corredor
+-Harold Stiven Mayo Perea
+-Keiler López Buenaño
+-Alex Mauricio Guevara
 
 # Proyecto - Tu Guía Verde
 
