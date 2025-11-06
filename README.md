@@ -24,7 +24,7 @@
 
 - La pagina es de caracter netamente informativo; No maneja bases de datos
 
-## ¿Como descargar El repositorio?
+## ¿Como descargar el repositorio?
 1. En la terminal de Visual Studio Code:
 Abre la carpeta en la que quieres que se descargue el proyecto
 
