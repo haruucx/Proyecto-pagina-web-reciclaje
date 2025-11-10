@@ -9,7 +9,7 @@
 - Alex Mauricio Guevara
 
 # Proyecto - Tu Guía Verde
-![Logo del proyecto](./assets/images/logo.jpg)
+![Logo](./assets/images/logo.jpg)
 ## Objetivo
 
 - Dar y brindar a la sociedad los conocimientos basicos sobre el reciclaje.
